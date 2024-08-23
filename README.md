@@ -4,7 +4,7 @@ Teach 5-grader and how to write code with AI.  We are going to learn to use foll
 1. [ChatGPT](https://chat.openai.com/)
 2. [Claude.ai](https://claude.ai/)
 3. [meta.ai](https://meta.ai/)
-4. [Preplexity.ai](https://Preplexity.ai)
+4. [Perplexity.ai](https://Perplexity.ai)
 5. [Gemini](https://gemini.google.com/)
 6. Ollama
 
